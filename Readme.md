@@ -38,5 +38,9 @@ This projects uses Excel, Power Query to clean and visualize the data and PowerP
 **2. Reactions Table: Whether the reactions were positive,negative or neutral**
 
 **3. ReactionTypes: Emotions like Happy,Sad,Angry,Disgust**
+
+**Report and Presentation:**
+**Report: Data Analytics template - Task 3_final.pdf**
+**Presentation: Data Analytics template - Task 3_final.pptx**
    
 **
